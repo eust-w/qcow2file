@@ -36,5 +36,4 @@ jobs:
         release_name: $current_tag
         draft: false
         prerelease: false
-        assets:
-          - pkg/qcow2file
+        assets: pkg/qcow2file
